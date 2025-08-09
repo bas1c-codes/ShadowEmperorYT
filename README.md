@@ -1,21 +1,21 @@
 # 👋 Hello There
-My name is CaptainBeast i am a Software Developer 
+My name is Adhul Krishna I am a Software Developer 
 
 -  🔭 I’m currently working on my antivirus software "Masha"
--  🌱 I’m currently learning Game Dev. / Software Testing
--  💬 Ask me about Python / Java / C#
+-  🌱 I’m currently learning DevOps / Software Testing
+-  💬 Ask me about Python / JS / C / C++
 <h1> 📢 Connect with me: </h1>
  💬 Dicord - CaptainBeast#1394
-   
+ 📧 Email - adhul410@gmail.com
 
  
  -----------------------------------------------------------------------------------------
  
  <h1>🤹‍♀️ Key skills </h1>
  
- 💬 `C,C#,Java,Shell,Unity,HTML,Python`
+ 💬 `C,C#,Java,JavaScript,TailWind,React.js,Next.js,Three.js,Kotlin,HTML,Python`
  
- 📖 `Visual Studio, Adnroid Studio, Unity, Unreal Engin 4`
+ 📖 `Visual Studio, Android Studio, Unity, Unreal Engine 4`
   
  ---------------------------------------------------------------------------------------
  
