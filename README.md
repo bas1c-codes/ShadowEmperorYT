@@ -19,6 +19,6 @@ My name is Adhul Krishna I am a Software Developer
   
  ---------------------------------------------------------------------------------------
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowEmperorYT)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bas1c-codes)](https://github.com/anuraghazra/github-readme-stats)
 
  
