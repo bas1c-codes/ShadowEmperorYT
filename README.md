@@ -5,7 +5,7 @@ My name is Adhul Krishna I am a Software Developer
 -  🌱 I’m currently learning DevOps / Software Testing
 -  💬 Ask me about Python / JS / C / C++
 <h1> 📢 Connect with me: </h1>
- 💬 Dicord - CaptainBeast#1394
+ 💬 Dicord - CaptainBeast#1394 <br>
  📧 Email - adhul410@gmail.com
 
  
